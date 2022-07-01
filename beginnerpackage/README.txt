@@ -1,1 +1,0 @@
-This is a module created for beginners to teach them how to get started with Python. Python is a very beginner friendly lanugage and thus I wanted to create a module so people could learn how to download modules, and could learn some Python along with it.
