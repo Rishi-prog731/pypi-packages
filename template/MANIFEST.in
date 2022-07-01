@@ -1,0 +1,3 @@
+Include what files your module uses here!
+Example is https://github.com/Rishi-prog731/pypi-packages/blob/main/MANIFEST.in
+Use global-include command
