@@ -1,0 +1,23 @@
+def helloworld():
+    print(f'print("Hello World")')
+    print(f'By using the print statement above, we can type this into our IDE, and after running the code in your IDE, we will see "Hello World" in the console log.')
+    print(f'https://www.learnpython.org/en/Hello,_World!')
+def comments():
+    print(f'Comments start with a #')
+    print(f'Comments can be used to explain python code, make code more readable, and prevent execution when testing code')
+    print(f'#Comment')
+    print(f'There are two types of comments; there are inline comments and "out"-line comments.')
+    print(f'This is an example of an inline comment')
+    print(f'print("Hello, World!") #This is a comment')
+    print(f'This is an example of an "out"-line comment')
+    print(f'#Comment')
+    print(f'print("Hello World")')
+    print(f'https://www.w3schools.com/python/python_comments.asp')
+def variable():
+    print(f'Variables hold data values')
+    print(f'For example, we can set x as 5 by running this line of code: x = 5')
+    print(f'You can print the variable x by doing print(x)')
+    print(f'In Python, you do not need to declare the type of variable when initializing it')
+    print(f'You can cast a variable, specify a data type, by adding the type in front of the value. For example, if I wanted to set x to a string "3," I would do x = str(3)')
+    print(f'You can get the type of variable by running print(type(variable))')
+    print(f'https://www.w3schools.com/python/python_variables.asp')

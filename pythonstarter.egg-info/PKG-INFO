@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: pythonstarter
+Version: 0.0.1
+Summary: Python module that teaches the basics of Python
+Home-page: 
+Author: Rishi Hariharaprasad
+Author-email: rishi.hhp@gmail.com
+License: MIT
+Keywords: starter
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.txt
+
+This is a module created for beginners to teach them how to get started with Python. Python is a very beginner friendly lanugage and thus I wanted to create a module so people could learn how to download modules, and could learn some Python along with it.
+
+
+Change Log
+==========
+
+0.0.1 (07/01/2022)
+-------------------
+- First Release
